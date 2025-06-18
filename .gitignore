@@ -3,11 +3,3 @@
 
 # Ignore VS Code settings folder
 .vscode/
-
-# Ignore Jupyter notebook checkpoints
-__pycache__/
-.ipynb_checkpoints/
-
-# Ignore virtual environments (if any)
-venv/
-env/
